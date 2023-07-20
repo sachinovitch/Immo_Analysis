@@ -1,12 +1,12 @@
-### Immo_Analysis
+# Immo_Analysis
 Analizing data of properties from Belgium, with the goal of making price-predictions for Immo Eliza, using visualized data.
-# Description
+## Description
 Using the previously scraped dataset, containing almost 12000 rows of Belgian properties for sale with 21 columns of data in a csv-file, graphs are made to visualize certain trends and patterns of the real estate market.
-# Instructions
+## Instructions
 You can find the code for cleaning and visualizing the data in the file called 'Immo_analysis.ipynb'. By chronologically running the codeblocks, output will be presented by DataFrames and Plots.
 To only see the visuals, you can take a look at the file called 'Visuals'. In there you will find all the plotted charts as png-files.
 
-# Case
+## Case
 The dataset obtained by scraping a Belgian immo-website did not require much data-cleaning
 Data-cleaning steps:
     *   Reordering the columns
